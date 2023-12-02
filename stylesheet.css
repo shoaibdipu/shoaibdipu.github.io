@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #1772d0; /* previous : color: #1772d0; #253494, #212e85 */
   text-decoration: none;
 }
 
